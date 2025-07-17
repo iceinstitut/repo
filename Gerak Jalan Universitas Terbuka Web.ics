@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZNAME:WIB
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250717T080346Z
+UID:1752739370450-95989@ical.marudot.com
+DTSTART;TZID=Asia/Jakarta:20250731T070000
+DTEND;TZID=Asia/Jakarta:20250731T090000
+SUMMARY:Gerak Jalan Universitas Terbuka
+URL:https://link.icei.ac.id/CEF34th
+DESCRIPTION:Kolaborasi tanpa batas dimulai dari strategi yang tepat!\nTemukan strategi untuk membangun kolaborasi virtual yang efektif dalam ICE Institute Webinar Series: The 34th Cyber Education Forum dengan topik Boundless Collaboration: Effective Strategies for Collaborative Virtual Learning yang diselenggarakan pada:\n\nKamis\, 24 Juli 2025\nPukul 10.00 AM WIB (Jakarta Time/ UTC +7)\n\nPembicara:\n👩🏼‍💼Ivy Shi\nFounder of Learnmonade\,\nLearnmonade (Hongkong)\n\n👨🏻‍💼Prof. Dr. Ir. R. Eko Indrajit\, M.Sc.\, MBA.\, M.Phil.\, MA.\nRector of Pradita University\,\nPradita University (Indonesia)\n\nWebinar ini GRATIS dan terbuka untuk umum\, dan menariknya Anda akan mendapatkan E-Certificate!\n\nPendaftaran bisa melalui link berikut link.icei.ac.id/daftarCEF34\n\nSaksikan Live Streaming melalui:\nZoom: https://link.icei.ac.id/CEF34th\nYoutube: https://link.icei.ac.id/StreamingCEF\n\nAyo jelajahi strategi kolaborasi tanpa batas dan bangun koneksi dengan para pelaku pendidikan global!✨ \n\n#ICEInstitute #CyberEducationForum #Webinar #Collaboration #VirtualLab
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gerak Jalan Universitas Terbuka
+TRIGGER:-PT5M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gerak Jalan Universitas Terbuka
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
